@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @treazzy
-- 👀 I’m interested in Compputer Sciences 
-- 🌱 I’m currently learning Compputer Sciences 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Sifundo Melusi Dube
+👀 I’m interested in Computer Sciences and hold a Bacholer's degree of Science 
+🌱 I’m majoring in Mathematics and Compputer Sciences 
+💞️ I’m looking to collaborate on any projects, C#
+📫 How to reach me on my email : sifundotreazzy@gmail.com
 
 <!---
 treazzy/treazzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
