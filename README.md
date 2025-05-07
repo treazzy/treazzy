@@ -1,4 +1,4 @@
-👋 Hi, I’m Sifundo Melusi Dube
+👋 Hi, I’m Sifundo Melusi Dube "\n"
 👀 I’m interested in Computer Sciences and hold a Bacholer's degree of Science 
 🌱 I’m majoring in Mathematics and Compputer Sciences 
 💞️ I’m looking to collaborate on any projects, C#
